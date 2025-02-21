@@ -12,6 +12,6 @@ qn 10 B
 
 qn 11. function greet(name) {
 return"Hello"}
-qn 12 .the code will "equal"
+qn 12 .the code will "NOT equal"
 qn 13 .Var can be accessed within the function it is declared in, let can be accessed within the block it is declared,and const can be within the block
 
